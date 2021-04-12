@@ -7,7 +7,7 @@ const pool = mysql.createPool({
   user: 'root',
   host: 'localhost',
   port: '3306',
-  database: 'datatrained_ott',
+  database: 'abc',
 });
 
 let db = {};
